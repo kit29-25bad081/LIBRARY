@@ -1,0 +1,3 @@
+curl.exe -L -k -o C:\Temp\mysql-8.4.9-winx64.msi https://cdn.mysql.com/Downloads/MySQL-8.4/mysql-8.4.9-winx64.msi
+Start-Process "C:\Temp\mysql-8.4.9-winx64.msi"
+
